@@ -1,8 +1,9 @@
 // Build Library Model with values for testing
 
-var book = require("./book.js"),
-  shelf = require("./shelf.js"),
-  library = require("./library.js");
+// Set Constructor Functions
+var Book = require("./book.js"),
+  Shelf = require("./shelf.js"),
+  Library = require("./library.js");
 
 
 var book1 = new Book("js way", "Jen N", "drama");

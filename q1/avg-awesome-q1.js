@@ -54,7 +54,7 @@ var extras = [
 // Test it out
 var expandedTest = testArray.concat(extras);
 var origTest = avgAwesomeIndex(testArray);
-var newTest = avgAwesomeIndex(expandedTest)
+var newTest = avgAwesomeIndex(expandedTest);
 
 
 
